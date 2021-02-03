@@ -23,9 +23,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: facebook
-    url: https://www.facebook.com/profile.php?id=100006305915123
-  - title: github
-    url: https://github.com/juyoungbang
   - title: email
     url: juyoungbang@unist.ac.kr
+  - title: github
+    url: https://github.com/juyoungbang
+  - title: facebook
+    url: https://www.facebook.com/profile.php?id=100006305915123
