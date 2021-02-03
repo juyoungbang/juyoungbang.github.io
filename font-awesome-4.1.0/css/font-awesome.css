@@ -192,8 +192,8 @@
 .fa-search:before {
   content: "\f002";
 }
-.fa-envelope-o:before {
-  content: "\f003";
+.fa-email-o:before {
+    content: "\f003";
 }
 .fa-heart:before {
   content: "\f004";
@@ -796,7 +796,7 @@
 .fa-sort-asc:before {
   content: "\f0de";
 }
-.fa-envelope:before {
+.fa-email:before {
   content: "\f0e0";
 }
 .fa-linkedin:before {
@@ -1338,8 +1338,8 @@
 .fa-slack:before {
   content: "\f198";
 }
-.fa-envelope-square:before {
-  content: "\f199";
+.fa-email-square:before {
+    content: "\f199";
 }
 .fa-wordpress:before {
   content: "\f19a";

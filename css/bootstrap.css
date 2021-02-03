@@ -293,8 +293,8 @@ th {
 .glyphicon-cloud:before {
   content: "\2601";
 }
-.glyphicon-envelope:before {
-  content: "\2709";
+.glyphicon-email:before {
+    content: "\2709";
 }
 .glyphicon-pencil:before {
   content: "\270f";
