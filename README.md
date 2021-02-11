@@ -1,5 +1,5 @@
-# Personal Page of Ju Young 
-This repository contains the code of my personal page
+# Homepage of Ju Young 
+This repository contains the code of my homepage
 
 ## Source
 The code of this theme is originated from [here](http://startbootstrap.com/templates/landing-page/)
