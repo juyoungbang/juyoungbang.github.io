@@ -1,4 +1,4 @@
-# Homepage of Ju Young 
+# Homepage of Juyoung 
 This repository contains the code of my homepage
 
 ## Source
